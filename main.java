@@ -8,7 +8,11 @@ public class main {
         else {
             metodos.switchCase(mes);
         }
+<<<<<<< HEAD
 test
+=======
+        \\ test hjo
+>>>>>>> 2dd123e6d6c392fb0a91dba26e7350c9037820b8
         metodos.diasMes(mes);
     }
 }
