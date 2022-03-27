@@ -8,7 +8,7 @@ public class main {
         else {
             metodos.switchCase(mes);
         }
-        \\ test
+        \\ test hjo
         metodos.diasMes(mes);
     }
 }
