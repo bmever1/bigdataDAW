@@ -8,6 +8,7 @@ public class main {
         else {
             metodos.switchCase(mes);
         }
+test
         metodos.diasMes(mes);
     }
 }
